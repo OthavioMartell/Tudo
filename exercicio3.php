@@ -8,6 +8,6 @@
         $novo_porcen = $porcen / 100
 
         $nova_porcen = $sal_atual * $novo_porcen;
-        $novo_sal = sal_atual + $nova_porcen;
+        $novo_sal = $sal_atual + $nova_porcen;
 
     print "\n\nO seu novo salário é: $novo_sal";
